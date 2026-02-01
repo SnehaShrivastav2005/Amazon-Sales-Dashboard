@@ -1,2 +1,3 @@
-# Amazon-Sales-Dashboard
+![Dashboard](Screenshot 2026-02-01 102840.png)
+FIX SCREENSHOT IN README
 
